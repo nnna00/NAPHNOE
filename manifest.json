@@ -1,0 +1,20 @@
+{
+  "name": "NAPHONE",
+  "short_name": "NAPHONE",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "https://i.postimg.cc/L4ZxJ4ky/Camera-1040g3k031m7gf0645m3g5p4c7to48drnj0suino-edit-5890515866479296.jpg",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.postimg.cc/L4ZxJ4ky/Camera-1040g3k031m7gf0645m3g5p4c7to48drnj0suino-edit-5890515866479296.jpg",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
